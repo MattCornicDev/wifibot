@@ -46,14 +46,53 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="ajouterConfig.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="ajouterConfig.Designer.cs">
+      <DependentUpon>ajouterConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PiloterUnRover.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PiloterUnRover.Designer.cs">
+      <DependentUpon>PiloterUnRover.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectionnerUnRover.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectionnerUnRover.Designer.cs">
+      <DependentUpon>SelectionnerUnRover.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListeDesRovers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListeDesRovers.Designer.cs">
+      <DependentUpon>ListeDesRovers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principale.Designer.cs">
+      <DependentUpon>Principale.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ajouterConfig.resx">
+      <DependentUpon>ajouterConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PiloterUnRover.resx">
+      <DependentUpon>PiloterUnRover.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectionnerUnRover.resx">
+      <DependentUpon>SelectionnerUnRover.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListeDesRovers.resx">
+      <DependentUpon>ListeDesRovers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principale.resx">
+      <DependentUpon>Principale.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

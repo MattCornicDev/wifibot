@@ -1,0 +1,14 @@
+C:\Users\mattc\source\repos\wifiBot\bin\Debug\wifiBot.exe.config
+C:\Users\mattc\source\repos\wifiBot\bin\Debug\wifiBot.exe
+C:\Users\mattc\source\repos\wifiBot\bin\Debug\wifiBot.pdb
+C:\Users\mattc\source\repos\wifiBot\obj\Debug\wifiBot.csprojAssemblyReference.cache
+C:\Users\mattc\source\repos\wifiBot\obj\Debug\wifiBot.Properties.Resources.resources
+C:\Users\mattc\source\repos\wifiBot\obj\Debug\wifiBot.csproj.GenerateResource.cache
+C:\Users\mattc\source\repos\wifiBot\obj\Debug\wifiBot.csproj.CoreCompileInputs.cache
+C:\Users\mattc\source\repos\wifiBot\obj\Debug\wifiBot.exe
+C:\Users\mattc\source\repos\wifiBot\obj\Debug\wifiBot.pdb
+C:\Users\mattc\source\repos\wifiBot\obj\Debug\wifiBot.Principale.resources
+C:\Users\mattc\source\repos\wifiBot\obj\Debug\wifiBot.ajouterConfig.resources
+C:\Users\mattc\source\repos\wifiBot\obj\Debug\wifiBot.ListeDesRovers.resources
+C:\Users\mattc\source\repos\wifiBot\obj\Debug\wifiBot.FormSelectionnerUnRover.resources
+C:\Users\mattc\source\repos\wifiBot\obj\Debug\wifiBot.PiloterUnRover.resources
